@@ -172,3 +172,19 @@ Nous avons également appris que 69 % des sites publics ne sont pas accessibles.
 Nous avons réalisé des audits d’accessibilité afin de vérifier si un site web est accessible.
 
 [Voir mon audit d’accessibilité](https://github.com/Psyko38/Audit-d-accessibilite)
+
+## Jour 4 - SEO, GEO et GEA
+
+Comment faire connaître un site quand on cherche une salle d’escalade sur Google ou qu’on demande conseil à une IA ? Ce cours présente les bases du référencement et les corrections qu’un développeur peut apporter à une page.
+
+Vous apprendrez à vérifier ce qu’un **robot** peut lire, à rédiger des informations utiles et à corriger une page **HTML**. L’atelier permet de mettre ces notions en pratique.
+
+### Le référencement dans Google et dans les réponses des IA
+
+Le **SEO** (*Search Engine Optimization*), ou référencement naturel, consiste à améliorer un site pour qu’il apparaisse dans les résultats gratuits d’un moteur de recherche. Google affiche un titre, un lien et un extrait de la page.
+
+Le **GEO** (*Generative Engine Optimization*) consiste à préparer les pages d’un site pour que des outils comme ChatGPT, Gemini ou Perplexity les utilisent comme sources et les citent dans leurs réponses. La personne peut alors obtenir une réponse à sa question sans visiter le site.
+
+La publicité prend aussi plusieurs formes : le **SEA** (*Search Engine Advertising*) désigne les annonces dans les moteurs de recherche, par exemple via Google Ads, tandis que le **GEA** (*Generative Engine Advertising*) désigne celles qui s’affichent avec les réponses d’une IA. Dans ce dernier cas, il faut distinguer l’annonce payante des sources citées dans la réponse.
+
+Le SEO et le GEO reposent sur des bases communes : les robots doivent accéder à la page, comprendre son contenu et y trouver une réponse utile. Ce travail se partage entre le développeur, qui s’occupe du HTML, des liens et du chargement, et l’équipe qui gère le site, qui fournit les tarifs, les horaires et les autres informations à publier. Les avis et les liens depuis d’autres sites contribuent aussi à faire connaître l’établissement.
